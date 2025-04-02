@@ -8,14 +8,6 @@
 </div>
 
 
-<div align="center" style="padding-top: 20px;">
-  <h2>👩‍💻 About Me</h2>
-  <p>
-    Sup homies
-  </p>
-</div>
-
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/araniwee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arani_wee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/araniweerathunga@gmail.com)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:araniweerathunga@gmail.com) 
