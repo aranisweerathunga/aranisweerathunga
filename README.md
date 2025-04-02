@@ -1,3 +1,22 @@
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&duration=3000&pause=700&color=40DC5B&center=true&vCenter=true&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Arani+Weerathunga" alt="Typing SVG" />
+</div>
+
+
+<div align="center" style="padding-top: 20px;">
+<img src="https://komarev.com/ghpvc/?username=PamuduW&base=200" alt="Profile Views Counter" />
+</div>
+
+
+<div align="center" style="padding-top: 20px;">
+  <h2>👩‍💻 About Me</h2>
+  <p>
+    I'm a 2nd-year computer science undergraduate at IIT, coding my way through challenges and chasing dreams 🚀. I love building projects, exploring tech, and collaborating with creative minds 🤝. From mastering algorithms to embracing innovation, my journey is driven by curiosity and a relentless pursuit of excellence. I transform ideas into reality with passion and code 💻.
+  </p>
+</div>
+
+
+
 # 💫 About Me:
 FullStack Developer<br>
 
